@@ -41,7 +41,7 @@ Project Workflow
 In this project, I completed the following steps (these steps are described in detail in *Mobile_Game_AB_Testing.ipynb*.
 1. Checking that each A/B group has approx. the same number of players
 2. Looking at the distributions of game rounds
-3. Looking at the overall 1-day retention
+3. Looking at the overall 1-day retention <br>
    A common metric in the video gaming industry for how fun and engaging a game is 1-day retention: the percentage of players that comes back and plays the game one day after they have installed it. The higher 1-day retention is, the easier it is to retain players and build a large player base.
 4. Bootstrap analysis for 1-day retention 
 5. Checking probability of the estimated difference for 1-day retention
