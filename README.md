@@ -23,7 +23,7 @@ This Project was completed in Python. For data manipulation I used Pandas and Nu
 
 Data
 ------
-The dataset for this project is *cookie_cats.csv*.
+The dataset for this project is *cookie_cats.csv*. This dataset was made available by [DataCamp](www.datacamp.com).
 
 The data is from 90,189 players that installed the game while the A/B test was running. The variables are:
 
